@@ -1,2 +1,2 @@
 # GWStandardSirens
-Python Code for simulate an distibution of gravitational waves as standard sirens
+Python Code for simulate an distribution of gravitational waves as standard sirens
